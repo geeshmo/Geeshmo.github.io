@@ -5,7 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: https://github.com/geeshmo/Geeshmo.github.io.git
+url: https://Geeshmo.github.io
 
 # Jekyll configuration
 
@@ -42,9 +42,9 @@ owner:
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
+  github: Geeshmo
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: Guillekopp
   instagram: #username
   flickr: #username
   tumblr: #username
